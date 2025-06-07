@@ -1,67 +1,69 @@
-# 🌐 Kişisel Web Sayfası
+# 🌐 Personal Web Page
 
-* Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-1 / Odev-1 | HTML ve CSS** projesidir.
-* Kişisel bilgilerimi, deneyimlerimi ve projelerimi sergileyen modern bir web sayfasıdır.
-* **HTML5**, **CSS3** ve temel web teknolojileri kullanılmıştır.
-* Responsive tasarım prensipleri uygulanmıştır.
+[🇹🇷 Click for Turkish version](./README.tr.md)
+
+* This project is created for Patika Frontend Bootcamp as **Week-1 / Assignment-1 | HTML and CSS** project.
+* A modern web page showcasing my personal information, experiences, and projects.
+* **HTML5**, **CSS3**, and basic web technologies are used.
+* Responsive design principles are applied.
 
 ---
 
-## :computer: Kullanım
+## :computer: Usage
 
-1. Projeyi klonlayın
+1. Clone the project
 ```bash
 git clone https://github.com/tunahanyasar/summary-html.git
 ```
 
-2. Proje klasörüne gidin
+2. Navigate to the project directory
 ```bash
 cd summary-html
 ```
 
-3. `index.html` dosyasını bir web tarayıcısında açın
-   - Dosyaya çift tıklayarak
-   - Veya bir local server kullanarak (örn: Live Server VS Code eklentisi)
+3. Open `index.html` in a web browser
+   - By double-clicking the file
+   - Or using a local server (e.g., VS Code Live Server extension)
 
 ---
 
-## 📋 Proje İçeriği
+## 📋 Project Content
 
-### 1. Ana Sayfa Yapısı
-- Adımı ve fotoğrafımı sayfanın en üstüne ekledim
-- Hakkımda kısmını **paragraf** etiketi içerisine doldurdum
-  - Önemli yerleri **b** etiketi ile belirttim
+### 1. Main Page Structure
+- Added my name and photo at the top of the page
+- Filled the About Me section using **paragraph** tags
+  - Highlighted important points using **b** tags
 
-### 2. İletişim Bölümü
-- **a** etiketi ile ***mail, linkedin, github*** hesaplarımı yönlendirme yaparak ekledim
-  - Görsel açıdan düzgün gözükmesi için hesapların logolarını **img** etiketi olarak ekledim
-  - **Iframe** etiketi ile yaşadığım konumu google haritalardan çekerek sayfama ekledim
+### 2. Contact Section
+- Added my ***mail, linkedin, github*** accounts using **a** tags for redirection
+  - Added account logos using **img** tags for better visual appearance
+  - Added my location using **Iframe** tag pulling from Google Maps
 
-### 3. Eğitim ve Deneyim
-- Eğitim kısmını ve İş Deneyimleri kısmını iç içe **ul** ve **ol** etiketilerini kullanarak ekledim
-- Yeteneklerimi text olarak yazmak yerine edindiğim becerileri **img** ile görsel olarak ekledim
-- Hobileri **ul** ile ekledim
+### 3. Education and Experience
+- Added Education and Work Experience sections using nested **ul** and **ol** tags
+- Added my skills visually using **img** tags instead of text
+- Added hobbies using **ul** tags
 
-### 4. Projeler Bölümü
-- Projelerimi **a** etiketi ile yönlendirme ekleyerek ***projects.html*** içerisinde görüntüledim
-  - Projeleri **Iframe** özelliği ile önbilgi vermesi açısından sayfama ekledim
-  - ***projects.html*** içerisinde projelerimi tablo içersine yazarak **CSS** ile hizalama yaptım
-    - Tablonun içerisine projeler hakkında **a etiketi** ile yönlendirmeli ek görseller ekledim
+### 4. Projects Section
+- Added my projects with redirection using **a** tags to ***projects.html***
+  - Added project previews using **Iframe** feature
+  - Created a table in ***projects.html*** for projects with **CSS** alignment
+    - Added additional project images with **a tags** for redirection
 
-### 5. Stil ve Tasarım
-- Projenin hizalı ve canlı gözükmesi için **head** etiketi altında **style** etiketinde özellikler yazdım
-  - Küçük eklemeleri etiketlerin kendi içersinde **style** niteliği ile ekledim
+### 5. Style and Design
+- Added properties in **style** tag under **head** for aligned and lively appearance
+  - Added minor additions using **style** attribute within tags
 
 ---
 
-## 💡 Kullanılan Teknolojiler
+## 💡 Technologies Used
 
 **HTML:**
 * Semantic HTML5
-* Meta Etiketleri
-* Form Elemanları
-* Iframe Entegrasyonu
-* Link ve Resim Yönetimi
+* Meta Tags
+* Form Elements
+* Iframe Integration
+* Link and Image Management
 
 **CSS:**
 * Responsive Design
@@ -72,32 +74,32 @@ cd summary-html
 
 ---
 
-## 📸 Sayfa Çıktısı
+## 📸 Page Output
 
-![KisiselSayfa](./kisisel-sayfa.png)
-
----
-
-## 🎯 Proje Hedefleri
-
-1. **Kullanıcı Deneyimi**
-   - Kolay navigasyon
-   - Responsive tasarım
-   - Modern görünüm
-
-2. **İçerik Organizasyonu**
-   - Düzenli bilgi hiyerarşisi
-   - Görsel zenginlik
-   - Kolay okunabilirlik
-
-3. **Teknik Başarılar**
-   - Semantic HTML kullanımı
-   - CSS ile modern tasarım
-   - Responsive yapı
+![PersonalPage](./kisisel-sayfa.png)
 
 ---
 
-## 📞 İletişim
+## 🎯 Project Goals
+
+1. **User Experience**
+   - Easy navigation
+   - Responsive design
+   - Modern appearance
+
+2. **Content Organization**
+   - Organized information hierarchy
+   - Visual richness
+   - Easy readability
+
+3. **Technical Achievements**
+   - Semantic HTML usage
+   - Modern design with CSS
+   - Responsive structure
+
+---
+
+## 📞 Contact
 
 [Tunahan Yaşar](https://github.com/tunahanyasar)
 
