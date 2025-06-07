@@ -1,9 +1,27 @@
 # 🌐 Kişisel Web Sayfası
 
-Kişisel bilgilerimi, deneyimlerimi ve projelerimi sergileyen modern bir web sayfasıdır.
-* Bu proje, HTML ve CSS kullanılarak geliştirilmiş kişisel bir web sayfasıdır.
+* Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-1 / Odev-1 | HTML ve CSS** projesidir.
+* Kişisel bilgilerimi, deneyimlerimi ve projelerimi sergileyen modern bir web sayfasıdır.
 * **HTML5**, **CSS3** ve temel web teknolojileri kullanılmıştır.
 * Responsive tasarım prensipleri uygulanmıştır.
+
+---
+
+## :computer: Kullanım
+
+1. Projeyi klonlayın
+```bash
+git clone https://github.com/tunahanyasar/summary-html.git
+```
+
+2. Proje klasörüne gidin
+```bash
+cd summary-html
+```
+
+3. `index.html` dosyasını bir web tarayıcısında açın
+   - Dosyaya çift tıklayarak
+   - Veya bir local server kullanarak (örn: Live Server VS Code eklentisi)
 
 ---
 
