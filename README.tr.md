@@ -2,6 +2,8 @@
 
 [🇬🇧 Click for English version](./README.md)
 
+*Oluşturulma Tarihi: 3 Şubat 2025*
+
 * Bu proje, Patika Frontend Bootcamp'i için oluşturulan **Hafta-1 / Odev-1 | HTML ve CSS** projesidir.
 * Kişisel bilgilerimi, deneyimlerimi ve projelerimi sergileyen modern bir web sayfasıdır.
 * **HTML5**, **CSS3** ve temel web teknolojileri kullanılmıştır.

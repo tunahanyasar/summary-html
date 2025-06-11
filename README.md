@@ -1,9 +1,11 @@
 # 🌐 Personal Web Page
 
-[🇹🇷 Click for Turkish version](./README.tr.md)
+[🇹🇷 Türkçe versiyon için tıklayın](./README.tr.md)
 
-* This project is created for Patika Frontend Bootcamp as **Week-1 / Assignment-1 | HTML and CSS** project.
-* A modern web page showcasing my personal information, experiences, and projects.
+*Created on: February 3, 2025*
+
+* This project is created for Patika Frontend Bootcamp's **Week-1 / Assignment-1 | HTML and CSS**.
+* It is a modern web page showcasing my personal information, experiences, and projects.
 * **HTML5**, **CSS3**, and basic web technologies are used.
 * Responsive design principles are applied.
 
@@ -23,7 +25,7 @@ cd summary-html
 
 3. Open `index.html` in a web browser
    - By double-clicking the file
-   - Or using a local server (e.g., VS Code Live Server extension)
+   - Or using a local server (e.g., Live Server VS Code extension)
 
 ---
 
@@ -32,26 +34,26 @@ cd summary-html
 ### 1. Main Page Structure
 - Added my name and photo at the top of the page
 - Filled the About Me section using **paragraph** tags
-  - Highlighted important points using **b** tags
+  - Highlighted important parts using **b** tags
 
 ### 2. Contact Section
-- Added my ***mail, linkedin, github*** accounts using **a** tags for redirection
+- Added my ***email, linkedin, github*** accounts using **a** tags with redirects
   - Added account logos using **img** tags for better visual appearance
-  - Added my location using **Iframe** tag pulling from Google Maps
+  - Added my location using **iframe** tag by embedding Google Maps
 
 ### 3. Education and Experience
 - Added Education and Work Experience sections using nested **ul** and **ol** tags
-- Added my skills visually using **img** tags instead of text
+- Instead of writing skills as text, added visual representations of my skills using **img** tags
 - Added hobbies using **ul** tags
 
 ### 4. Projects Section
-- Added my projects with redirection using **a** tags to ***projects.html***
-  - Added project previews using **Iframe** feature
-  - Created a table in ***projects.html*** for projects with **CSS** alignment
-    - Added additional project images with **a tags** for redirection
+- Displayed my projects in ***projects.html*** using **a** tags with redirects
+  - Added projects to the page using **iframe** feature to provide previews
+  - Organized projects in a table in ***projects.html*** with **CSS** alignment
+    - Added additional project-related images with **a tags** and redirects inside the table
 
 ### 5. Style and Design
-- Added properties in **style** tag under **head** for aligned and lively appearance
+- Added properties in **style** tags under **head** tag for aligned and vibrant appearance
   - Added minor additions using **style** attribute within tags
 
 ---
