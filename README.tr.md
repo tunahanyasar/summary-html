@@ -1,6 +1,6 @@
 # 🌐 Kişisel Web Sayfası
 
-[🇬🇧 Click for English README.md](./README.md)
+[🇬🇧 İngilizce README.md için tıklayın](./README.md)
 
 *Oluşturulma Tarihi: 3 Şubat 2025*
 
