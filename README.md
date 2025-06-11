@@ -1,6 +1,6 @@
 # 🌐 Personal Web Page
 
-[🇹🇷 Click for Turkish version](./README.tr.md)
+[🇹🇷 Click for Turkish README.md](./README.tr.md)
 
 *Created on: February 3, 2025*
 
